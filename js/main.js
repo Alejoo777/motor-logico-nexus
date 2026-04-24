@@ -1,5 +1,5 @@
 import { recursosEstacion, eventosConsumo } from "./data.js";
-
+// Motor lógico de gestión de recursos Nexus
 console.log("Sistema Nexus iniciado correctamente");
 
 // Arreglos manuales (sin push)
