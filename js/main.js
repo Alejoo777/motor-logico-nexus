@@ -1,6 +1,6 @@
 import { recursosEstacion, eventosConsumo } from "./data.js";
 // Motor lógico de gestión de recursos Nexus
-console.log("Sistema Nexus iniciado correctamente");
+console.log("Sistema Nexus inicializado correctamente");
 
 // Arreglos manuales (sin push)
 let alertas = [];
